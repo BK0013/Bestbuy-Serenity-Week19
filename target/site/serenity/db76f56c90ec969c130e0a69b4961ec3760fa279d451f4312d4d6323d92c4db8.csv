@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CURD test with steps","This test will create a new products and verify its generated","SUCCESS","2022-01-11T21:23:33.815Z[Europe/London]","0.0","0.3"
+"Product CURD test with steps","This test will get the product information by ID","SUCCESS","2022-01-11T21:23:34.113Z[Europe/London]","0.0","0.06"
+"Product CURD test with steps","This test will delete the product information and verify the product is deleted ","SUCCESS","2022-01-11T21:23:34.811Z[Europe/London]","0.0","0.36"
